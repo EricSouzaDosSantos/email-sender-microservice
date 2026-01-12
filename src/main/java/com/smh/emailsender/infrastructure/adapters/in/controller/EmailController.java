@@ -1,4 +1,4 @@
-package com.smh.emailsender.infrastructure.web;
+package com.smh.emailsender.infrastructure.adapters.in.controller;
 
 import com.smh.emailsender.application.usecase.SendEmailServiceUseCase;
 import com.smh.emailsender.interfaces.dtos.request.EmailRequestDTO;
